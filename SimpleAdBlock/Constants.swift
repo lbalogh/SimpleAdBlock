@@ -8,7 +8,7 @@
 
 import Foundation
 
-let kEasyListDownloadURL        = "https://rawgit.com/lbalogh/abp2blocklist/compatible/easylist.json"
+let kEasyListDownloadURL        = "https://cdn.jsdelivr.net/gh/lbalogh/abp2blocklist@compatible/easylist.json"
 let kFilterFilename             = "easylist.json"
 let kAppGroupIdentifier         = "group.com.balogh.SimpleAdBlock"
 let kContentBlockerIdentifier   = "com.balogh.SimpleAdBlock.ContentBlocker"
